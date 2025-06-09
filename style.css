@@ -16,15 +16,22 @@ h1 {
 
 .estilos {
     padding: 50px;
-    margin: 0px;
+    margin: 0px; 
+    width: 600px;
+    height: 400px;
     position: absolute;
-    left: 15%;
-    top: 15%;
+    margin: auto;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
     
-    border: 1px solid lightseagreen;
+    border: 10px solid lightseagreen;
     background-color: lightslategray;
 }
 
+/* Todos os dias essa página será atualizado com aprendizagnes que adquirir com o logo dos estudos! */
 
 
 
